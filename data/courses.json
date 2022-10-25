@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Introduction with JavaScript",
+        "image_url": "https://i.pinimg.com/736x/96/24/88/962488950201066adbf6c34da2360ef4.jpg",
+        "details": "JavaScript is a lightweight, cross-platform, and interpreted compiled programming language which is also known as the scripting language for webpages. It is well-known for the development of web pages, many non-browser environments also use it."
+      },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Introduction with JavaScript Variables",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/Variables-in-JavaScript.jpg",
+        "details": "Variables are containers for storing data. JavaScript variables declare with var,let, orconst. Variable type can be Number, String, Booleans, Array etc. Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign. After first letter we can use digits (0 to 9), for example value1. JavaScript variables are case sensitive, for example x and X are different variables. There are two types of varible 1. JS local variable and 2. JS global variable. A JavaScript local variable is declared inside block or function. It is accessible within the function or block only. A JavaScript global variable is accessible from any function. A variable i.e. declared outside the function or declared with window object is known as global variable."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Introduction with JavaScript Conditions",
+        "image_url": "https://blog.alexdevero.com/wp-content/uploads/2020/06/22-06-20-javascript-if-else-statement-made-simple-blog.jpg",
+        "details": "Conditional statements control behavior in JavaScript and determine whether or not pieces of code can run. There are multiple different types of conditionals in JavaScript including: 1. “If” statements: where if a condition is true it is used to specify execution for a block of code. 2. “Else” statements: where if the same condition is false it specifies the execution for a block of code. 3. “Else if” statements: this specifies a new test if the first condition is false."
+      },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Introduction with JavaScript Loops",
+        "image_url": "https://linuxconfig.org/wp-content/uploads/2020/06/00-introduction-to-javascript-loops.png",
+        "details": "Loops are handy, if you want to run the same code over and over again, each time with a different value. JavaScript supports different kinds of loops: 1. for - loops through a block of code a number of times. 2. for/in - loops through the properties of an object. 3. for/of - loops through the values of an iterable object. 4. while - loops through a block of code while a specified condition is true. 5. do/while - also loops through a block of code while a specified condition is true. "
+      },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Indroduction with JavaScript Functions",
+        "image_url": "https://i.ytimg.com/vi/W6QaDqud66Y/maxresdefault.jpg",
+        "details": "Functions are required to make our code 'run'. Functions will take data, compute it, and return the computed data. All code that is 'run' in JavaScript is run inside of a function. There are 3 ways of writing a function in JavaScript: Function Declaration. Function Expression. Arrow Function. A function is an equation that has only one answer for y for every x. A function assigns exactly one output to each input of a specified type. It is common to name a function either f(x) or g(x) instead of y. f(2) means that we should find the value of our function when x equals 2."
+      },
+    {
+        "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Introduction with JavaScript Array",
+        "image_url": "https://www.larashout.com/wp-content/uploads/2019/03/Introduction-To-JavaScript-Arrays.jpg",
+        "details": "Arrays in JavaScript are the data type used to store a list of values. JavaScript array objects can be stored in variables and dealt with in the same way you deal with any other data type. An array is a special variable, which can hold more than one value. In JavaScript, the array is a single variable that is used to store different elements. It is often used when we want to store a list of elements and access them by a single variable. You can find out the length of an array (how many items are in it) in exactly the same way as you find out the length (in characters) of a string — by using the length property. Items in an array are numbered, starting from zero. This number is called the item's index. So the first item has index 0, the second has index 1, and so on. You can access individual items in the array using bracket notation and supplying the item's index, in the same way that you accessed the letters in a string."
+      }
+]
